@@ -1,1 +1,1 @@
-# exercise-music-player
+# demo-music-player
